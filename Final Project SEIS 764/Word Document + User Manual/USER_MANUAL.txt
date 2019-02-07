@@ -1,0 +1,27 @@
+Python Code
+1. Install Anaconda and Pycharm 
+
+2. Download twcs.zip
+
+3. Open terminal and install keras, tensorflow, np and pandas using conda or pip
+
+3. Download and open final_scripts_1.py (AuthorClassification folder and final_sentiment_regression.py (SentimentRegression folder)
+
+4. For both files, change both wrk_dr to the paths of your intended working directories for both google colaboratory and your personal computer
+
+5. Save twcs.zip inside a folder named ‘data in both your working directories
+
+6. Run both scripts
+
+Matlab Code
+1. Install Matlab
+
+2. Download twcs.zip
+
+3. Unzip twcs.zip
+
+4. Download and open p2.m (Inbound_Classification folder)
+
+5. Change both the file paths for ‘opts’ and ’T’ to the file path leading to twcs.csv on your computer
+
+6. Run script
